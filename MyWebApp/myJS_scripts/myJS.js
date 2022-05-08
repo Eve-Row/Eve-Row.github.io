@@ -14,7 +14,7 @@ window.onload = function () {
 
   /*     Markers      */
 
-  d3.csv("data/msb-reduced/msb_reduced.csv").then(function (data) {
+  d3.csv("msb-reduced.csv").then(function (data) {
     drawMarkerSelect(data);
   });
 
