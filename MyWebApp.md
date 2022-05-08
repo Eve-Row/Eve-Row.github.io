@@ -1,3 +1,3 @@
 layout: page
 title: "MyWebApp"
-permalink: /MyWebApp/
+permalink: /tree/main/MyWebApp/
